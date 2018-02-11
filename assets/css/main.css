@@ -1816,7 +1816,7 @@
 	}
 
 	a {
-		color: #212931;
+		color: #00FF00;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
@@ -4360,7 +4360,7 @@
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		display: none;
 		-webkit-overflow-scrolling: touch;
-		background: #ffffff;
+		background: rgba(50, 50, 50, 1);
 		box-shadow: none;
 		color: #212931;
 		height: 100%;

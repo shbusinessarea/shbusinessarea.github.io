@@ -128,7 +128,7 @@
 		// Scrolly.
 			$('.scrolly').scrolly();
 
-		// Background.
+		// Background. 
 			$wrapper._parallax(0.925);
 
 		// Nav Panel.
